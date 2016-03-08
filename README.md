@@ -1,3 +1,5 @@
+![](php-screenshot.png?raw=true "Hello World")
+
 ## Run it
 
 `docker run -it -d --name hello -p 8080:80 aerth/php:latest`
